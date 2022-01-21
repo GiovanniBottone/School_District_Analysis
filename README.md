@@ -21,6 +21,7 @@ The purpose of this analysis was to replace the math and reading scores for Thom
 
 ### Scores based on School Spending
 Surprisingly, schools that spend less than $584 per student had the highest average math score (83.5), the highest average reading score (83.9), the highest % of student passing math (93), the highest percentage of students passing reading (97), and the highest percentage of overall students passing (90.)
+
 ![Scores by School Spending](https://user-images.githubusercontent.com/95371617/150457002-de17f6f9-fe8b-42d1-bb54-76e3f61d36fe.png)
 
 ### Scores based on School Size
