@@ -26,10 +26,12 @@ Surprisingly, schools that spend less than $584 per student had the highest aver
 
 ### Scores based on School Size
 Medium (1000-2000) sized schools barely surpassed small (<1000) sized schools in 3 of 5 categories. Medium sized schools had the highest percentage of passing math (93.58), the highest percentage of passing reading (96.73) and the highest percenatge of overall passing (90.56), while small sized schools had the highest average math score (83.82) and the highest average reading score (83.93.) 
+
 ![Scores by School Size](https://user-images.githubusercontent.com/95371617/150457058-6e9fa537-0dc7-41b2-a0f7-5b0ffdade982.png)
 
 ### Scores based on School Type
 Charter schools beat district schools in every category.
+
 ![Scores by School Type](https://user-images.githubusercontent.com/95371617/150457103-ce1296c7-494f-4ade-b7a2-d085e470877f.png)
 
 
